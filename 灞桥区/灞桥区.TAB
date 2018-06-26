@@ -1,0 +1,49 @@
+!table
+!version 700
+!charset WindowsSimpChinese
+
+Definition Table
+  Type SHAPEFILE Charset "Neutral"
+  Fields 20
+    Addr_city Char (80) ;
+    Addr_house Char (80) ;
+    Addr_postc Char (80) ;
+    Addr_stree Char (80) ;
+    Amenity Char (80) ;
+    Building Char (80) ;
+    Building_l Char (80) ;
+    Cuisine Char (80) ;
+    Generator_ Char (80) ;
+    Generato_1 Char (80) ;
+    Man_made Char (80) ;
+    Name Char (80) ;
+    Name_en Char (80) ;
+    Nodes Char (254) ;
+    Office Char (80) ;
+    Power Char (80) ;
+    Religion Char (80) ;
+    Shop Char (80) ;
+    Source Char (80) ;
+    Tourism Char (80) ;
+begin_metadata
+"\IsReadOnly" = "FALSE"
+"\Shapefile" = ""
+"\Shapefile\PersistentCache" = "FALSE"
+"\Spatial Reference" = ""
+"\Spatial Reference\Geographic" = ""
+"\Spatial Reference\Geographic\Projection" = ""
+"\Spatial Reference\Geographic\Projection\Clause" = "CoordSys Earth Projection 1, 104"
+"\DefaultStyles" = ""
+"\DefaultStyles\Pen" = ""
+"\DefaultStyles\Pen\LineWidth" = "1"
+"\DefaultStyles\Pen\LineStyle" = "0"
+"\DefaultStyles\Pen\Color" = "0"
+"\DefaultStyles\Pen\Pattern" = "2"
+"\DefaultStyles\Brush" = ""
+"\DefaultStyles\Brush\Pattern" = "2"
+"\DefaultStyles\Brush\Forecolor" = "16777215"
+"\DefaultStyles\Brush\Backcolor" = "16777215"
+"\DefaultStyles\Brush\Transparent" = "FALSE"
+"\MapInfo" = ""
+"\MapInfo\TableID" = "dbe384e6-a9ec-4323-bf00-6a60d7676b92"
+end_metadata
